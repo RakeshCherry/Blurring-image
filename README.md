@@ -1,5 +1,5 @@
-## Blurring Image
+# Blurring Image
 
-# click on below link
+## click on below link
 
 https://rakeshcherry.github.io/Blurring-image/
